@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather by Zip</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="currentLocation">Location</string>
+    <string name="today">Now</string>
+    <string name="unknown"></string>
+    <string name="day1">Today</string>
+    <string name="day2">Tomorrow</string>
+    <string name="day3">Day After Tomorrow</string>
+    <string name="image">Image</string>
+    <string name="zipcode">Postal Code</string>
+    <string name="c">Celsius</string>
+    <string name="f">Fahrenheit</string>
+    <string name="submit">Submit</string>
+    <string name="currentWeather">Current Weather</string>
+    <string name="selectDays">Select Days</string>
+
+</resources>

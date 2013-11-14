@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiempo de Zip</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_settings">Configuración</string>
+    <string name="currentLocation">Ubicación actual</string>
+	<string name="today">Hoy</string>
+    <string name="unknown">N/A</string>
+    <string name="day1">Hoy</string>
+    <string name="day2">Mañana</string>
+    <string name="day3">Pasado Mañana</string>
+	<string name="zipcode">Código Postal</string>
+    <string name="c">Celsius</string>
+    <string name="f">Fahrenheit</string>
+    <string name="submit">Presentar</string>
+   	<string name="currentWeather">El tiempo actual</string>
+   	<string name="selectDays">Selecciona días</string>  	
+</resources>
